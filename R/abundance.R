@@ -42,7 +42,7 @@
 #' head(BAperSpecies$ba)
 #' head(BAperSpecies$meandate)}
 #'
-#'
+#'jhjhfjft
 'abundance'
 
 #' Abundance, basal area, or agb of every species by quadrat.
